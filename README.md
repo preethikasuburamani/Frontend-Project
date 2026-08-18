@@ -1,5 +1,7 @@
 NOVA | Web Application Designer Portfolio
 
+<img width="1920" height="1080" alt="Screenshot (513)" src="https://github.com/user-attachments/assets/e33d161b-06a2-4318-8276-cecf636ee5cd" />
+
 How to use this project 1)Clone the repository.
 
 2)Open home.html in any modern web browser.
